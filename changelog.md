@@ -17,3 +17,8 @@ newest change to be added to end of file
 ## Added Changelog 
 ### 0.0.1 - 2017-01-17
 - Setup and changelog scheme.
+
+
+## Enhanced tooltip
+### 0.0.1 - 2017-01-17
+- Added the quote to the tooltip.
